@@ -23,7 +23,7 @@ If you have selft signed certificate you will have to give the path in the provi
 ## Deployment
 
     git clone git@github.com:Soupzer/hellodarknessmyoldfriend.git
-    cd hellodarknessmyoldfriend
+    cd hellodarknessmyoldfriend/terraform
     
     terraform init -reconfigure
     terraform plan
